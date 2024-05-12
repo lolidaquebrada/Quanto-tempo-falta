@@ -2,16 +2,16 @@
 
 :root{
     --cor-de-fundo:#000000;
-    --aqua:#7fffd4; 
-    --verde:#14e926; 
+    --rosa:#fc0fc0;
+    --verde:#14e926;
 }
 
 body{
     background-color: var(--cor-de-fundo);
-    color: var(--aqua);
+    color: var(--rosa);
     text-align: center;
     font-family: 'Semibold';
-    font-size: 18px;
+    font-size: 20px;
     }
 
     h1 span{

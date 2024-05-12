@@ -12,7 +12,7 @@ body{
     text-align: center;
     font-family: 'Semibold';
     font-size: 18px;
-    font-variant-position: var(--verde);
+    font-variant-alternates: character-variant(swap);
     }
 
     h1 span{

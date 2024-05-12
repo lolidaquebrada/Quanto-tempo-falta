@@ -2,7 +2,7 @@
 
 :root{
     --cor-de-fundo:#000000;
-    --aqua:#7fffd4; 
+    --aqua:#7fffd4 #31a826; 
     --verde:#14e926; 
 }
 
@@ -12,7 +12,6 @@ body{
     text-align: center;
     font-family: 'Semibold';
     font-size: 18px;
-    font-variant-alternates: character-variant(swap);
     }
 
     h1 span{

@@ -2,13 +2,13 @@
 
 :root{
     --cor-de-fundo:#000000;
-    --rosa:#fc0fc0; 
+    --aqua:#7fffd4; 
     --verde:#14e926; 
 }
 
 body{
     background-color: var(--cor-de-fundo);
-    color: var(--rosa);
+    color: var(--aqua);
     text-align: center;
     font-family: 'Semibold';
     }

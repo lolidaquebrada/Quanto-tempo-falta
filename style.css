@@ -11,6 +11,7 @@ body{
     color: var(--aqua);
     text-align: center;
     font-family: 'Semibold';
+    font-size: 70px;
     }
 
     h1 span{

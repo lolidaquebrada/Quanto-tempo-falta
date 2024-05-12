@@ -19,5 +19,5 @@ body{
 
     #dias_restantes{
         color: var(--verde);
-        font-size: 120px;
+        font-size: 100px;
     }

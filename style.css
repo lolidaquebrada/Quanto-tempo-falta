@@ -3,14 +3,14 @@
 :root{
     --cor-de-fundo:#000000;
     --rosa:#ff00ff;
-    --verde:#03f03f;
+    --verde:#22f356;
 }
 
 body{
     background-color: var(--cor-de-fundo);
     color: var(--rosa);
     text-align: center;
-    font-family: 'Semibold';
+    font-family: 'Chakra Petch';
     font-size: 20px;
     }
 

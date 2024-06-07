@@ -7,11 +7,12 @@
 }
 
 body{
-    background: #ca0000;
+    background-image:url(background.jpg) ;
+    background-size: cover;
     color: var(--rosa);
     text-align: center;
     font-family: 'Chakra Petch';
-    font-size: 30px;
+    font-size: 17px;
     }
 
     h1 span{
